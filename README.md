@@ -1,6 +1,6 @@
-# Chat-GPT
+# Try-Chat-GPT
 
-Chat-GPT is a command line interface (CLI) application that allows you to ask questions and receive instant responses using OpenAI's GPT-3 language model.
+Try-Chat-GPT is a command line interface (CLI) application that allows you to ask questions and receive instant responses using OpenAI's GPT-3 language model.
 
 ## Installation
 
